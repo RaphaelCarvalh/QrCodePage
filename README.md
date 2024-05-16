@@ -1,4 +1,4 @@
-# Frontend Mentor - Componente de QR Code
+# Frontend Mentor - Página de QR Code
 
 ## Bem-vindo! 👋
 
