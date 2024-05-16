@@ -1,4 +1,4 @@
-# Frontend Mentor - Componente de QR Code
+# Frontend Mentor - Página de QR Code
 
 ## Bem-vindo! 👋
 
@@ -20,4 +20,4 @@ além delas há versões Sketch & Figma! Também há um arquivo `style-guide.md`
 
 Como mencionado, há muitas maneiras de hospedar o projeto. Porém foi utilizado para esse exercicio o GITHUB Pages.
 
-- [GitHub Pages](https://pages.github.com/) Link da Hospedagem:
+- [GitHub Pages](https://pages.github.com/) Link da Hospedagem:  [PageQrCode](https://raphaelcarvalh.github.io/QrCodePage/)
